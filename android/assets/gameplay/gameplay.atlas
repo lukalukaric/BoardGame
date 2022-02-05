@@ -1,0 +1,148 @@
+
+gameplay.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+belaBrez
+  rotate: false
+  xy: 2, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+frameImage
+  rotate: false
+  xy: 2, 37
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: -1
+nebo
+  rotate: false
+  xy: 904, 922
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+poln
+  rotate: false
+  xy: 2, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+prazen
+  rotate: false
+  xy: 20, 20
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+
+gameplay2.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+0
+  rotate: false
+  xy: 132, 504
+  size: 543, 459
+  orig: 543, 459
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 484, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+bela
+  rotate: false
+  xy: 2, 835
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smiley-face
+  rotate: false
+  xy: 2, 22
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+
+gameplay3.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+9
+  rotate: false
+  xy: 2, 509
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+light-bulb
+  rotate: false
+  xy: 504, 509
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+thinking-cloud
+  rotate: false
+  xy: 2, 2
+  size: 494, 505
+  orig: 494, 505
+  offset: 0, 0
+  index: -1
+
+gameplay4.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+4
+  rotate: false
+  xy: 451, 2
+  size: 413, 604
+  orig: 413, 604
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 48
+  size: 447, 558
+  orig: 447, 558
+  offset: 0, 0
+  index: -1
+
+gameplay5.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 2
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+gameplay6.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+background_intro
+  rotate: false
+  xy: 2, 2
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,24 @@
+{
+    "result":[
+        {
+         "name":"Luka",
+         "time":"30s",
+         "difficulty":"easy"
+        },
+        {
+             "name":"Zak",
+             "time":"25s",
+             "difficulty":"easy"
+        },
+        {
+             "name":"Ziga",
+             "time":"90s",
+             "difficulty":"easy"
+        },
+        {
+          "name":"Aleks",
+          "time":"110s",
+          "difficulty":"hard"
+        }
+    ]
+}
